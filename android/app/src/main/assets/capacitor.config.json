@@ -1,0 +1,9 @@
+{
+	"appId": "com.howsalak.app",
+	"appName": "هوصلك",
+	"webDir": "www",
+	"backgroundColor": "#ffffff",
+	"android": {
+		"backgroundColor": "#ffffff"
+	}
+}
